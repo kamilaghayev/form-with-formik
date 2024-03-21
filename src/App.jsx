@@ -1,10 +1,10 @@
 import "./App.scss"
-import Form from "./Form"
+import FormForDonation from "./FormForDonation"
 
 const App = () => {
     return (
         <div className="app">
-            <Form/>
+            <FormForDonation/>
         </div>
     )
 }
